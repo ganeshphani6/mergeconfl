@@ -2,4 +2,8 @@ hi this is phani
 
 hello i'm fine
 
+<<<<<<< HEAD
 i'm in Hyderabad
+=======
+i'm in Bangalore
+>>>>>>> refs/remotes/origin/master
